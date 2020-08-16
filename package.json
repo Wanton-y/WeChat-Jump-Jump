@@ -1,0 +1,19 @@
+{
+  "name": "wxjump",
+  "version": "1.0.0",
+  "description": "wxjump tools",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "webopenfather",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "fs-extra": "^5.0.0",
+    "opn": "^5.1.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "socket.io": "^2.0.4"
+  }
+}
